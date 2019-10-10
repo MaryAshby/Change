@@ -14,18 +14,19 @@ padding: 25px 25px 25px 25px;
 .svsg
 {
   float: left;
-  padding: 5px;
+  padding: 10px;
   
 }
 
 .svt
 {
-  padding: 5px;
+  padding: 10px;
   )
  .quote
     {
       text-align: center;
       width: 600px;
-      padding: 0px 200px 0px 200px;
+      position: relative;
+      left: 200px;
     }
     
