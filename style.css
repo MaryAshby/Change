@@ -11,12 +11,9 @@ padding: 25px 25px 25px 25px;
   border-color: #420000;
 }
 
-.svsg {
-  float: right;
-  {
-
  .quote
     {
       text-align: center;
+      width: 600px;
     }
     
